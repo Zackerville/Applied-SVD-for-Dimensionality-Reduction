@@ -90,7 +90,7 @@ def text_to_matrix(docs):
     return X
 
 st.set_page_config(page_title="SVD Dimensionality Reduction App", layout="wide")
-st.title("SVD Dimensionality Reduction / Compression App")
+st.title("SVD Dimensionality Reduction App")
 
 st.markdown("""
 ### 1. Upload your file
