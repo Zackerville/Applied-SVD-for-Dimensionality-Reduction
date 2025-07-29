@@ -1,11 +1,11 @@
-# SVD Dimensionality Reduction & Compression App
+# SVD Dimensionality Reduction & Compression Application
 
 A Streamlit web application for **dimensionality reduction and compression using SVD** (Singular Value Decomposition) and **TruncatedSVD**.
 Supports common file types: **CSV, Numpy, Image (PNG/JPG), TXT, PDF, DOCX**.
 
 ---
 
-![1753813709758](image/README/1753813709758.png)
+![1753813709758](assests/README/1753813709758.png)
 
 ## 📂 Supported File Types
 
@@ -25,9 +25,9 @@ Supports common file types: **CSV, Numpy, Image (PNG/JPG), TXT, PDF, DOCX**.
 - **Error metrics**: RMSE, compression ratio.
 - **Download** reconstructed data as CSV or image.
 
-  ![1753813787955](image/README/1753813787955.png)
+  ![1753813787955](assests/README/1753813787955.png)
 
-  ![1753813853296](image/README/1753813853296.png)
+  ![1753813853296](assests/README/1753813853296.png)
 
 ---
 
