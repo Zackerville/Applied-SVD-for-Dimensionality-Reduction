@@ -94,7 +94,6 @@ st.title("SVD Dimensionality Reduction App")
 
 st.markdown("""
 ### 1. Upload your file
-Supported: **CSV, Excel, Numpy (.npy/.npz), Image (PNG/JPG), TXT, PDF, DOCX**
 """)
 
 file = st.file_uploader("Choose a file...", type=['csv', 'xlsx', 'xls', 'npy', 'npz', 'png', 'jpg', 'jpeg', 'bmp', 'tiff', 'txt', 'pdf', 'docx'])
